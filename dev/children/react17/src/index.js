@@ -2,6 +2,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+import 'antd/dist/antd.css';
+import '@ant-design/pro-components/dist/components.css';
+
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
